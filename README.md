@@ -1,2 +1,1 @@
-# Year-One-Hight-Map
-Description placeholder
+# Year-One-Height-Map
